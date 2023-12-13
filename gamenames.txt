@@ -20,3 +20,4 @@ Subnautica
 State of Decay 2
 Phasmophobia
 7 Days to Die
+PC Building Simulator 2
